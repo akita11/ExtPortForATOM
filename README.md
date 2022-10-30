@@ -9,7 +9,7 @@ M5stackのATOMシリーズ ([Lite](https://www.switch-science.com/products/6262)
 
 <img src="https://github.com/akita11/ExtPortForATOM/blob/main/withATOM.jpg" width="240px">
 
-ATOMを上手のように取り付けて使います。
+ATOMを上図のように取り付けて使います。
 
 <img src="https://github.com/akita11/ExtPortForATOM/blob/main/jumper.jpg" width="240px">
 
@@ -28,7 +28,7 @@ GroveポートのVDD(+5V)への給電は、ボード上のショートピンで�
 
 <img src="https://github.com/akita11/ExtPortForATOM/blob/main/silk.jpg" width="240px">
 
-※初期ロットでは裏面シルクに間違いがあります。PortBとPortCの表記が逆になっていますのでご注意ください。
+※初期ロットでは裏面シルクに間違いがあります。PortBとPortCの表記が逆になっていますのでご注意ください。（コネクタの色で各Portの名称を確認してください）
 
 ## Author
 
