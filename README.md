@@ -26,6 +26,14 @@ GroveポートのVDD(+5V)への給電は、ボード上のショートピンで�
 - PortC（黒色） : IO33/IO23/VDD/GND
 - PortD（青色） : IO19/IO22/VDD/GND
 
+※ATOM-S3の場合は以下のようになります。
+
+- PortB（赤色） : IO39/IO38/VDD/GND
+- PortC（黒色） : IO8/IO7/VDD/GND
+- PortD（青色） : IO6/IO5/VDD/GND
+
+
+
 <img src="https://github.com/akita11/ExtPortForATOM/blob/main/silk.jpg" width="240px">
 
 ※初期ロットでは裏面シルクに間違いがあります。PortBとPortCの表記が逆になっていますのでご注意ください。（コネクタの色で各Portの名称を確認してください）
