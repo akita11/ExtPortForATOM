@@ -4,6 +4,7 @@
 
 M5stackのATOMシリーズ ([Lite](https://www.switch-science.com/products/6262) / [Matrix](https://www.switch-science.com/products/6260)に3つのGroveポートを拡張します。Groveポートへの給電はATOMから、またはUSB Type-Cコネクタからを選択できます。
 
+※M5Stack純正の[ATOM PortABC](https://www.switch-science.com/products/9198)とピン配置・コネクタの色は同一ですが、Portの名称が異なります(本品=B/C/D、ATOM PortABC=A/B/C)
 
 ## 使い方
 
